@@ -1,2 +1,5 @@
-# machine_learning
-Some machine learning pieces of code
+# Machine Learning
+
+Some machine learning pieces of code.
+
+:snake: :panda_face:
